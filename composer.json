@@ -5,6 +5,7 @@
       "Ripple\\RPC\\": "src/"
     }
   },
+  "license": "MIT",
   "authors": [
     {
       "name": "cclilshy",
